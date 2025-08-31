@@ -1,0 +1,3 @@
+*.sql linguist-language=SQL
+*.ddl linguist-language=SQL
+*.dml linguist-language=SQL
